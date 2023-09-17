@@ -29,4 +29,4 @@ Absolute Percentage Error (MAPE). This error metric returns the error as a perce
 
 The resulted predicted curves was very much like the real curves in both pure longitudinal and lateral force.
 <img src="images/Fx.png" style="text-align: center;">
-<img src="images/Fx.png" style="text-align: center;">
+<img src="images/Fy.png" style="text-align: center;">
