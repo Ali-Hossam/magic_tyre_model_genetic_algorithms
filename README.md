@@ -30,9 +30,9 @@ Absolute Percentage Error (MAPE). This error metric returns the error as a perce
 The resulted predicted curves was very much like the real curves in both pure longitudinal and lateral force.
 <div style="display: flex;">
   <div style="flex: 50%; padding-right: 5px;">
-    <img src="images/Fx.png" alt="Image 1" style="width: 100%;">
+    <img src="images/Fx.png" alt="Image 1" style="width: 80%;">
   </div>
   <div style="flex: 50%; padding-left: 5px;">
-    <img src="images/Fy.png" alt="Image 2" style="width: 100%;">
+    <img src="images/Fy.png" alt="Image 2" style="width: 20%;">
   </div>
 </div>
