@@ -1,4 +1,4 @@
-# Implementation of "An Alternative Method to Determine the Magic Tyre Model Parameters Using Genetic Algorithms" in Python
+# Implementation of "An Alternative Method to Determine the Magic Tyre Model Parameters Using Genetic Algorithms" paper in Python
 This repository contains a Python implementation of the paper titled "An Alternative Method to Determine the Magic Tyre Model Parameters Using Genetic Algorithms". The purpose of this implementation is to showcase how the proposed method can be applied to determine the parameters of the Magic Tyre Model using genetic algorithms. Additionally, it includes a notebook to generate graphs to visualize the results.
 
 ## Paper Information
