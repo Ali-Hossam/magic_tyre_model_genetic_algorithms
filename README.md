@@ -6,7 +6,7 @@ This repository contains a Python implementation of the paper titled "An Alterna
 * Authors: J.A. CABRERA1,2, A. ORTIZ1, E. CARABIAS1 AND A. SIMON
 * DOI: <https://www.tandfonline.com/doi/abs/10.1076/vesd.41.2.109.26496>
 
-For more information about click [here](https://www.researchgate.net/publication/232924414_An_Alternative_Method_to_Determine_the_Magic_Tyre_Model_Parameters_Using_Genetic_Algorithms)
+For more information click [here](https://www.researchgate.net/publication/232924414_An_Alternative_Method_to_Determine_the_Magic_Tyre_Model_Parameters_Using_Genetic_Algorithms)
 
 ## Introduction
 The Magic Tyre Model, also known as the Pajecka tire model, is a widely used tire model in vehicle dynamics simulations. It provides an accurate representation of tire forces and moments under different operating conditions.
