@@ -28,5 +28,5 @@ The used error metric was different from the paper as we used Mean
 Absolute Percentage Error (MAPE). This error metric returns the error as a percentage which means that it will be easy to choose a value for minimum acceptable error that is not affected by the value of the Vertical force.
 
 The resulted predicted curves was very much like the real curves in both pure longitudinal and lateral force.
-<img src="images/Fx.png" style="text-align: center;">
-<img src="images/Fy.png" style="text-align: center;">
+<img src="images/Fx.png" style="float: left; text-align: center;">
+<img src="images/Fy.png" style="float: left; text-align: center;">
